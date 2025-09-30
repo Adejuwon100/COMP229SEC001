@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Adejuwon100/ASSIGNMENT1.git",
+  "homepage": "https://abiolaadejuwon-comp229sec001.netlify.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
