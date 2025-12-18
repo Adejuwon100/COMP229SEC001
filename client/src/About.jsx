@@ -42,7 +42,7 @@ function About() {
               <div className="resume-section">
                 <h3>Professional Documents</h3>
                 <a 
-                  href="/Resume.pdf" 
+                  href="/Resume.docx" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="resume-link btn btn-primary"
