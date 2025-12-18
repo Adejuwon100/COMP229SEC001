@@ -28,7 +28,7 @@ function Logo() {
           fontWeight="700"
           fontFamily="Arial, sans-serif"
         >
-          AM
+          AA
         </text>
       </svg>
       <span className="brand">Adejuwon</span>
