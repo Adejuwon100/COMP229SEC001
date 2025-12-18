@@ -41,6 +41,25 @@ function Projects() {
       ],
       fallbackIcon: "🖥️"
     }
+    ,
+    {
+      id: 3,
+      title: "RocketOdds",
+  // Use a dedicated roulette 3D board image; add the file to client/public/images/roulette3d.webp
+  image: "/images/roulette3d.webp",
+      link: "https://rocketodds.onrender.com/",
+      technologies: ["Node.js", "Express", "MongoDB", "API Integration"],
+      description: "RocketOdds is a team-built web app for sports odds and insights. It provides live odds aggregation, historical comparisons, and simple analytics for bettors and analysts.",
+      role: "Backend Developer",
+      outcome: "Built the backend APIs, data aggregation pipelines, and integrations that power the odds dashboard.",
+      features: [
+        "Live odds aggregation",
+        "Historical odds comparison",
+        "Robust backend APIs",
+        "Data integration and ETL pipelines"
+      ],
+      fallbackIcon: "🚀"
+    }
   ];
 
   return (
